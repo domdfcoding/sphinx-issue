@@ -1,0 +1,5 @@
+==============
+:mod:`module`
+==============
+
+.. automodule:: module
